@@ -1,0 +1,4 @@
+{
+    "ConnectionString": "<your connection string>",
+    "TableName": "<Name of table to use>"
+}
