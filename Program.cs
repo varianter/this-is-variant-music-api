@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace This_is_variant_music_api
+namespace VariantMusicApi
 {
     public class Program
     {
