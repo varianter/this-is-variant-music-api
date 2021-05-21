@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>this_is_variant_music_api</RootNamespace>
+    <RootNamespace>VariantMusicApi</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
